@@ -1,0 +1,1 @@
+http://2.112.73.10:81/swagger/calcolatoreprezzi/swagger.json
