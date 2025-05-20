@@ -1,2 +1,2 @@
-配合findsomething插件批量访问api接口并返回响应结果的工具/n
+配合findsomething插件批量访问api接口并返回响应结果的工具 
 php版本至少8.4
